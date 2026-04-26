@@ -1,0 +1,1 @@
+console.log("Projet DS2 lancé !");
